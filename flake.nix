@@ -16,7 +16,7 @@
         {
           devShell = pkgs.mkShell {
             nativeBuildInputs = with pkgs; [
-              jdk17
+              openjdk11
             ];
           };
         }
