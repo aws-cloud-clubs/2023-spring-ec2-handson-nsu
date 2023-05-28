@@ -1,11 +1,12 @@
 # 2023-spring-ec2-handson-nsu
 
-Simple spring with docker, deployed to aws ec2 handson.
+Simple spring with docker, deployed to aws ec2 handson session.
 
 ## Requirements
 
-- Docker
-- JDK 11
+- aws account
+- docker
+- jdk11
 
 ## Run
 
